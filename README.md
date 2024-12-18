@@ -76,5 +76,5 @@ sudo apt install ffmpeg sox
 ## Install all required libraries from a text file as follows:
 
 ```sh
-pip install -r requirements.txt
+~pip install -r requirements.txt~
 ```
