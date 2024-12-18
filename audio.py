@@ -4,7 +4,6 @@
 import os
 import json
 import hashlib
-import ffmpeg_bitrate_stats
 
 
 BASE = os.path.dirname(os.path.realpath(__file__))
