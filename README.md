@@ -72,9 +72,3 @@ We need this libraries within the `OS` to perform media manipulation and convers
 ```sh
 sudo apt install ffmpeg sox
 ```
-
-## Install all required libraries from a text file as follows:
-
-```sh
-~pip install -r requirements.txt~
-```
